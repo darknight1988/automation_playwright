@@ -1,0 +1,17 @@
+node_modules/
+/test-results/
+.vscode
+.idea
+allure*
+playwright-report
+test-results
+.env
+.cache/
+.eslintcache
+.zshrc
+.DS_Store
+tests
+tests-examples
+test-results
+playwright-report
+download
